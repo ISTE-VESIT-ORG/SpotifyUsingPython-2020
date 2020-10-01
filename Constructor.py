@@ -11,6 +11,7 @@ class Person:
         '''
         All variables here declared are called as instance varibles
         '''
+        print("I am in the INIT")
         self.name = name
         self.age = age
         self.gender = gender
@@ -21,7 +22,10 @@ class Person:
         print("Age :", self.age)
         print("Gender :", self.gender)
 
-
+#object of a person 
 p1 = Person("Aditya",20,"M")
 p2 = Person("Akash",21,"M")
+#Either this syntax
 Person.print_Person_Details(p1)
+# or this 
+p2.print_Person_Details()

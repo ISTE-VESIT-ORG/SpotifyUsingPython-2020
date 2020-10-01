@@ -16,10 +16,6 @@ harry = Person()
 # Output: <function Person.greet>
 print(Person.greet)
 
-# Output: <bound method Person.greet of <__main__.Person object>>
-print(harry.greet)
-
-
 # Calling object's greet() method
 # Output: Hello
 harry.greet()
