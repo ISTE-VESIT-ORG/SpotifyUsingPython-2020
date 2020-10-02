@@ -7,9 +7,9 @@ class A:
 		print("Feature 2 working")
 
 class B(A) : 
-	def __init__(self):
-		super().__init__() 
-		print("INIT B")
+	# def __init__(self):
+	# 	super().__init__() 
+	# 	print("INIT B")
 	# def feature1(self):
 	# 	print("Feature 1 in B working")
 	def feature2(self):
