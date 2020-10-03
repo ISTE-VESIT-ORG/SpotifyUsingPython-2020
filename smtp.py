@@ -1,4 +1,4 @@
-import trackback
+import traceback
 import smtplib, ssl
 from getpass import getpass
 port = 465  # For SSL
