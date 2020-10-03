@@ -9,5 +9,6 @@ def myFun1(**kwargs):
 	print(len(kwargs),type(kwargs),kwargs.keys())
 	for i in kwargs:
 		print(kwargs[i])
-myFun(name ="VESIT",city="Mumbai") 
+		
+myFun1(name ="VESIT",city="Mumbai") 
 
