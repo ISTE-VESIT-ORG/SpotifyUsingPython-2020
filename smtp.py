@@ -1,9 +1,10 @@
+import trackback
 import smtplib, ssl
 from getpass import getpass
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
-sender_email = "amplifyteam1234@gmail.com"  # Enter your address
-receiver_email = "dkhoche70@gmail.com"  # Enter receiver address
+sender_email = "2018.akash.maurya@ves.ac.in"  # Enter your address
+receiver_email = "2018.akash.maurya@ves.ac.in"  # Enter receiver address
 password = getpass("Type your password and press enter: ")
 message = """\
 Subject: Hi there
