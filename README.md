@@ -1,4 +1,4 @@
-# Python-Workshop
+# Spotify using Python
 > Spotify like Application using Python-Tkinter and Firebase
 
 Amplify is a music streaming application (clone of Spotify) using Python GUI Tkinter and Firebase database. Special features include - streaming songs from database, dedicated search for songs based on multiple fields, Cloud Firestore Database, email authentication.
