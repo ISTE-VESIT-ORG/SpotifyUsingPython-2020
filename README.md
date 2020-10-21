@@ -7,6 +7,8 @@ Amplify is a music streaming application (clone of Spotify) using Python GUI Tki
 
 ## Topics Covered
 
+<strong>Codes for Day-1 and Day-2 are available in the Day-1 and Day-2 branch respectively.</strong>
+
 <h3>Day-1</h3>
 <pre>
 1) Introduction to python 
