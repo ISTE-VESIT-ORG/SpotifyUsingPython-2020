@@ -1,65 +1,49 @@
-# Product Name
-> Short blurb about what your product does.
+# Python-Workshop
+> Spotify like Application using Python-Tkinter and Firebase
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+Amplify is a music streaming application (clone of Spotify) using Python GUI Tkinter and Firebase database. Special features include - streaming songs from database, dedicated search for songs based on multiple fields, Cloud Firestore Database, email authentication.
 
-One to two paragraph statement about your product and what it does.
+![image](https://user-images.githubusercontent.com/49261633/96698401-b19a9c80-13aa-11eb-8712-60e5f6a9deb3.png)
 
-![](header.png)
+## Topics Covered
 
-## Installation
+<h3>Day-1</h3>
+<pre>
+1) Introduction to python 
+2) Variables 
+3) User Input
+4) List ,tuples,Dictionary 
+5) Decision Making Statements
+6) For Loop
+7) While Loop
+8) Function 
+9) Object oriented Concepts 
+10) Exception handling 
+11) SMTP protocol with python (simple small email application)
+12) File handling at basic level</pre>
 
-OS X & Linux:
 
-```sh
-npm install my-crazy-module --save
-```
+<h3>Day-2</h3>
+<pre>
+1) Tkinter
+   a) Labels, Button, Input,Frame
+   b) Geometry Manager
+   c) Small module from the project
+2) Firebase 
+   a) Account
+   b) Data entry
+   c) Data retrieval in python
+3) Music
+    a) Retrieve music from Firebase
+    b) Play music
+4) Project setup
+</pre>
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+_For Project Code and Setup, please refer to this [link][wiki]._
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+ISTE-VESIT – [@ISTE-VESIT](http://istevesit.org) – iste.vesit@ves.ac.in
 
 ## Contributing
 
@@ -69,10 +53,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+
+[wiki]: https://github.com/Srajan1122/TK-Player
