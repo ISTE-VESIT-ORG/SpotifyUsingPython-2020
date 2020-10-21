@@ -1,4 +1,4 @@
-# Product Name
+# Python-Workshop
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
