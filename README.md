@@ -43,6 +43,10 @@ Amplify is a music streaming application (clone of Spotify) using Python GUI Tki
 
 _For Project Code and Setup, please refer to this [link][wiki]._
 
+## Credits
+* [Srajan Shetty](https://github.com/Srajan1122)
+* [Devdatta Khoche](https://github.com/devdattakhoche)
+
 ## Meta
 
 ISTE-VESIT – [@ISTE-VESIT](http://istevesit.org) – iste.vesit@ves.ac.in
